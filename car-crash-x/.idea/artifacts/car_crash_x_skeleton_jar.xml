@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="car-crash-x-skeleton:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/car_crash_x_skeleton_jar</output-path>
+    <root id="archive" name="car-crash-x-skeleton.jar">
+      <element id="module-output" name="car-crash-x-skeleton" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/simplegraphics.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/lanterna-2.1.9.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
